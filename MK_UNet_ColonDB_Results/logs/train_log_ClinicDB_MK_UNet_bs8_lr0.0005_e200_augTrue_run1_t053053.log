@@ -1,0 +1,4 @@
+[2026-08-26 05:30:54,505] flops: 0.619251354, params: 0.315566, Total params: : 0.3156
+[2026-08-26 05:31:22,968] Epoch: 1, Dataset: test, Dice: 0.1575, IoU: 0.1004
+[2026-08-26 05:31:23,697] Epoch: 1, Dataset: val, Dice: 0.3837, IoU: 0.2748
+[2026-08-26 05:31:23,698] ### Best Model Saved (Dice improved from 0.0000 to 0.3837) ###
